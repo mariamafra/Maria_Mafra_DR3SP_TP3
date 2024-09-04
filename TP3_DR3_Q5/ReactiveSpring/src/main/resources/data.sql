@@ -1,0 +1,1 @@
+INSERT INTO FORNECEDORES (nome, telefone) VALUES ('Fornecedor A', '12345678000100');
